@@ -1,0 +1,78 @@
+﻿Meslek grubuna göre kadın ve erkek çalışanların saatlik ortalama brüt ücretleri, 2010, 2014, 2018, 2022, 2023;;;;;;;
+Average hourly gross wages of female and male employees by occupation group, 2010, 2014, 2018, 2022, 2023;;;;;;;
+;;;;;;(TL);
+Meslek;;Yıl-Year;;;;;
+"Occupation
+(ISCO 08)";;2010;2014;2018;2022;2023;
+"Toplam
+Total";;7,6;11,1;20,7;55,4;118,9;
+"Yöneticiler
+Managers";;19,1;33,9;50,6;122,9;251,2;
+"Profesyonel meslek mensupları 
+Professionals";;13,8;23,6;33,8;97,5;206,4;
+"Teknisyenler, teknikerler ve yardımcı profesyonel meslek mensupları 
+Technicians and associate professionals";;9,4;13,6;25,1;64,9;137,7;
+"Büro hizmetlerinde çalışan elemanlar 
+Clerical support workers";;8,2;10,5;18,8;58,2;122,3;
+"Hizmet ve satış elemanları 
+Service and sales workers";;5,5;7,6;14,0;39,0;83,3;
+"Nitelikli tarım, ormancılık ve su ürünleri çalışanları 
+Skilled agricultural, forestry and fishery workers";;5,9;7,1;16,3;38,8;83,2;
+"Sanatkarlar ve ilgili işlerde çalışanlar 
+Craft and related trades workers";;6,4;8,4;15,4;41,8;89,9;
+"Tesis ve makine operatörleri ve montajcılar 
+Plant and machine operators and assemblers";;5,5;8,1;16,4;42,7;92,7;
+"Nitelik gerektirmeyen meslekler 
+Elementary occupations";;5,0;7,0;13,2;39,6;86,4;
+;;;;;;;
+Erkek-Male;;;;;;;
+"Toplam
+Total";;7,5;11,1;20,9;54,4;117,1;
+"Yöneticiler
+Managers";;18,7;34,5;51,3;124,1;252,8;
+"Profesyonel meslek mensupları 
+Professionals";;15,1;25,9;36,5;106,0;222,0;
+"Teknisyenler, teknikerler ve yardımcı profesyonel meslek mensupları 
+Technicians and associate professionals";;9,6;13,9;26,2;67,4;143,2;
+"Büro hizmetlerinde çalışan elemanlar 
+Clerical support workers";;8,4;10,7;19,8;60,9;127,7;
+"Hizmet ve satış elemanları 
+Service and sales workers";;5,6;7,8;14,4;39,4;84,4;
+"Nitelikli tarım, ormancılık ve su ürünleri çalışanları 
+Skilled agricultural, forestry and fishery workers";;(*);7,5;16,7;39,0;83,7;
+"Sanatkarlar ve ilgili işlerde çalışanlar 
+Craft and related trades workers";;6,5;8,6;16,2;42,6;91,5;
+"Tesis ve makine operatörleri ve montajcılar 
+Plant and machine operators and assemblers";;5,7;8,4;17,2;43,5;94,7;
+"Nitelik gerektirmeyen meslekler 
+Elementary occupations";;5,2;7,1;13,6;39,7;86,5;
+;;;;;;;
+Kadın-Female;;;;;;;
+"Toplam
+Total";;7,7;11,3;20,3;57,4;123,0;
+"Yöneticiler
+Managers";;20,2;32,2;48,5;119,9;246,9;
+"Profesyonel meslek mensupları 
+Professionals";;12,2;20,9;31,3;89,7;192,2;
+"Teknisyenler, teknikerler ve yardımcı profesyonel meslek mensupları 
+Technicians and associate professionals";;9,0;12,7;22,3;58,2;123,9;
+"Büro hizmetlerinde çalışan elemanlar 
+Clerical support workers";;7,9;10,2;17,5;55,6;117,1;
+"Hizmet ve satış elemanları 
+Service and sales workers";;5,1;7,3;13,0;38,3;81,3;
+"Nitelikli tarım, ormancılık ve su ürünleri çalışanları 
+Skilled agricultural, forestry and fishery workers";;(0);6,1;12,2;38,2;80,3;
+"Sanatkarlar ve ilgili işlerde çalışanlar 
+Craft and related trades workers";;5,4;7,0;12,3;37,1;80,1;
+"Tesis ve makine operatörleri ve montajcılar 
+Plant and machine operators and assemblers";;4,4;6,5;12,0;38,0;80,3;
+"Nitelik gerektirmeyen meslekler 
+Elementary occupations";;4,4;6,5;12,3;39,6;86,2;
+Kaynak: TÜİK, Kazanç Yapısı Araştırması, 2010, 2014, 2018, 2022, 2023;;;;;;;
+Source: TurkStat, Structure of Earnings Survey, 2010, 2014, 2018, 2022, 2023;;;;;;;
+(*) Gizlenmiş verilerin aritmetik işlem sonucu elde edilmesini önlemek amacı ile verilmemiştir (ikincil gizlilik).;;;;;;;
+(*) Data are not given for hinder to obtain confidential figures by mathematical process.;;;;;;;
+(0) Gözlem değerleri güvenilir tahminler için yeterli değildir.;;;;;;;
+(0) Data not available due to insufficient number of obversion.;;;;;;;
+;;;;;;;
+;;;;;;;
