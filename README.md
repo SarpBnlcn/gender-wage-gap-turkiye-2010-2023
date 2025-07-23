@@ -54,3 +54,10 @@ Veri seti eğitim ve test setlerine ayrılır.
 
 Modelin performansı Ortalama Mutlak Hata (MAE) ve R-kare (R²) metrikleri ile değerlendirilir.
 
+<img width="1200" height="800" alt="meslek_bazli_ucret_farklari" src="https://github.com/user-attachments/assets/1eecf004-da87-43ed-b19a-1b5d38faf757" />
+<img width="1200" height="600" alt="ortalama_ucretler_yillara_gore" src="https://github.com/user-attachments/assets/787e22e6-259f-4d17-8a85-f73ab5ad91d4" />
+<img width="1400" height="800" alt="secili_meslekler_ucret_egilimleri" src="https://github.com/user-attachments/assets/37c2d0fe-0c43-4668-99a4-58768c63614a" />
+
+
+
+
